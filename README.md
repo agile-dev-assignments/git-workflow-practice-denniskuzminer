@@ -7,3 +7,7 @@
 - The ability to work remotely, even when COVID-19 safety measures are lifted.
 
 Because "many developers change their job after just one year in a company," this article emphasized the compensation of advancing from junior to senior developer: "According to talent.io, the annual salaries of London front-end developers does not seem to increase beyond £50,000 until they gain seven or more years’ experience, when their salary jumps from £50,000 to £63,000."
+
+---
+Comments by Cindy Kim
+Interesting article! Shows a more worldly view on software engineering by comparing salaries and demand across countries. Never considered how the field was interpreted differently in another country like Germany or London. Good to know!
